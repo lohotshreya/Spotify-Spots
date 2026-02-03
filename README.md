@@ -4,7 +4,7 @@ Spotify Spots is a web-based project that analyzes your Spotify listening data a
 
 Think of it as a future-facing Spotify Wrapped, mixed with that iconic Spotify bot that judges your music taste — but instead of roasting you, it predicts your next era 😌
 
-##🚀 What It Does
+##What It Does🚀
 
 After logging in with your Spotify account, Spotify Spots:
 
@@ -24,7 +24,7 @@ The overall vibe of your future listening
 
 All predictions are personalized, using only your Spotify data.
 
-##🔐 How It Works
+##How It Works🔐
 
 User logs in securely using Spotify OAuth
 
@@ -40,7 +40,7 @@ No generic recommendations.
 No random guesses.
 Just your taste, spotted early.
 
-##🧠 Prediction Logic (High-Level)
+##Prediction Logic (High-Level)🧠
 
 Spotify Spots focuses on explainable, data-driven insights:
 
@@ -54,7 +54,7 @@ Trends are extrapolated to predict future listening behavior
 
 This keeps the predictions transparent, interpretable, and realistic.
 
-##🛠️ Tech Stack
+##Tech Stack🛠️ 
 
 Frontend
 
