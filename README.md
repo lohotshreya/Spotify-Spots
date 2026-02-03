@@ -57,25 +57,16 @@ This keeps the predictions transparent, interpretable, and realistic.
 ## Tech Stack🛠️ 
 
 Frontend
-
 HTML
-
 CSS
-
 JavaScript
 
 Backend
-
 Python
-
 Flask
-
 Data & APIs
-
 Spotify Web API
-
 Pandas
-
 NumPy
 
 Authentication
