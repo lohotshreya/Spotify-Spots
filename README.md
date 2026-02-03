@@ -81,3 +81,31 @@ NumPy
 Authentication
 
 Spotify OAuth 2.0
+
+## 📌 Future Improvements
+
+ML-based recommendation models
+
+Visual comparison of past vs predicted taste
+
+Shareable Spotify Spots prediction cards
+
+Mood-based and era-based forecasting
+
+## ✨ Inspiration
+
+Inspired by:
+
+Spotify Wrapped
+
+Spotify “judge my music taste” bots
+
+Pinterest Predicts–style trend forecasting
+
+Built as a data science project exploring user behavior and preference evolution.
+
+## 👤 Author
+
+Built by Shreya
+BTech Data Science student
+Interested in data analytics, product thinking, and music-driven insights.
